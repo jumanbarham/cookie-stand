@@ -1,1 +1,12 @@
-theme: jekyll-theme-tactile
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cookies Sales</title>
+</head>
+<body>
+    <header>Cookies Sales</header>
+    <a href= "sales.html">Sales</a>
+    <img src="assets/salmon.png" alt="">
+
+</body>
+</html>
